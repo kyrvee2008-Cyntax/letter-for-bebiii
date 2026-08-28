@@ -1,0 +1,33 @@
+body {
+
+    background-image: url(images\ \(1\).jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+p {
+
+    font-size: 18px;
+    text-align: justify;
+    max-width: 450px;
+    line-height: 1.5;
+
+}
+
+#envelope {
+
+    cursor: pointer;
+    max-width: 235;
+    max-height: 180;
+
+}
+
+#invelop {
+
+    max-width: 235;
+    max-height: 180;
+    cursor: pointer;
+
+}

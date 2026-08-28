@@ -1,0 +1,13 @@
+body {
+    background-image: url(pink-fluffy-hearts-lights-romantic-valentine39s-day-background_191095-99841.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p {
+    max-width: 700px;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.15;
+}
